@@ -1,0 +1,1 @@
+A very simple project that aims to bind element values/inner text to each other.
